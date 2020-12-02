@@ -23,7 +23,6 @@
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 </p>
 
 #### Profile views counter
@@ -43,5 +42,3 @@
 </p></br>
 
 Credits: [Nguyen Quang Han](https://github.com/quanghan-dev)
-
-Credits: [Nguyen Tri Nhan](https://github.com/nguyentrinhan-dev)
